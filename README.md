@@ -2,9 +2,9 @@
 This is a Tkinter-based GUI application that allows users to insert student data into a MySQL database and view the stored records in a tabular format.
 
 Features:-
--Fetches and displays student records in a table view
--User-friendly GUI using Tkinter
--Inserts student name and password into MySQL database
+1. Fetches and displays student records in a table view
+2. User-friendly GUI using Tkinter
+3. Inserts student name and password into MySQL database
 
 Installation:-
 Setup MySQL Database
